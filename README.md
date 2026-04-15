@@ -1,8 +1,22 @@
-Hi, I am learning Python.
-This is my practice repository.
-I am building small projects like:
-- Quotes scraper
-- Job scraper (learning)
-- Expense analyzer
+# Quotes Scraper (Python)
 
-I am learning step by step.
+This is a beginner Python project.
+
+## What it does
+- Scrapes quotes from a website
+- Extracts quote text and author
+- Saves data into a CSV file
+
+## Tools used
+- Python
+- Requests
+- BeautifulSoup
+- CSV
+
+## Output
+- quotes.csv file with quotes and authors
+
+## What I learned
+- Web scraping basics
+- Handling encoding issues
+- Writing data to CSV
